@@ -1,0 +1,8 @@
+{
+  "name": "ecotrack",
+  "app_id": "19ff6ea3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
